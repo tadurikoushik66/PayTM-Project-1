@@ -1,4 +1,4 @@
 //backend/config.js
-module.exports = {
+module.exports = {mongodb+srv://taduri1:bunny1928@cluster0.wjjow.mongodb.net/
 	JWT_SECRET: "your-jwt-secret"
 }
